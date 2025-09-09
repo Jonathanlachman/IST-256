@@ -1,0 +1,25 @@
+header h2
+{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.product
+{
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.product img
+{
+    display: block;
+    margin-top: 5px;
+}
+
+aside h2
+{
+    color: #e60023;
+}
